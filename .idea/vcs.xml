@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ML_courses/mini-projects/ud120-projects" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MLbook" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MLbook/handson-ml" vcs="Git" />
+  </component>
+</project>
